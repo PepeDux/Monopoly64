@@ -1,0 +1,21 @@
+C:\Users\user.COMP_201_9\Documents\ViNik 255\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.AssemblyReference.cache
+C:\Users\user.COMP_201_9\Documents\ViNik 255\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP_201_9\Documents\ViNik 255\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\user.COMP_201_9\Documents\ViNik 255\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\user.COMP_201_9\Documents\ViNik 255\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\user.COMP_201_9\Documents\ViNik 255\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\user.COMP_201_9\Documents\ViNik 255\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\user\Documents\ViNik\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\user\Documents\ViNik\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\user\Documents\ViNik\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\user\Documents\ViNik\Monopoly\Monopoly\obj\Debug\Monopoly.csprojAssemblyReference.cache
+C:\Users\user\Documents\ViNik\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\user\Documents\ViNik\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
+C:\Users\roman\source\repos\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\roman\source\repos\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\roman\source\repos\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\roman\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.AssemblyReference.cache
+C:\Users\roman\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.SuggestedBindingRedirects.cache
+C:\Users\roman\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\roman\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\roman\source\repos\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
