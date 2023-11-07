@@ -1,5 +1,11 @@
 # Monopoly64
 
+![Static Badge](https://img.shields.io/badge/C%23-purple)  ![Static Badge](https://img.shields.io/badge/Game-red) ![Static Badge](https://img.shields.io/badge/Console-green)
+
+
+
+
+
 Mopoly64 - версия знаменитой игры моноплия выполненная в консольном виде при помощи c#.
 
 ## Механики игры
